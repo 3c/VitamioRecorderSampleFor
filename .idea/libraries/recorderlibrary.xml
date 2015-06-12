@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="recorderlibrary">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/recorderlibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
